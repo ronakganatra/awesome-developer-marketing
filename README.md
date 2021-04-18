@@ -12,7 +12,7 @@ Ever since joining [GraphCMS](https://graphcms.com) I've been on a steep learnin
 
 Want to contribute to grow/improve this? PRs welcome!
 
-![Awesome Developer Marketing](https://thumbs.gfycat.com/SpectacularImpossibleFlyingfox-max-1mb.gif)
+![Awesome Developer Marketing](https://thumbs.gfycat.com/BigFoolishGull-size_restricted.gif)
 
 ## Basics
 
