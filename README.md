@@ -33,6 +33,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Jesse Williams](https://www.jesse-williams.com/)
 - [Mary Thengvall](https://www.marythengvall.com/)
 - [SWYX](https://www.swyx.io/) 
+- [Scott Spence](https://www.scottspence.com/) 
 
 ## Books
 
@@ -119,6 +120,7 @@ Want to contribute to grow/improve this? PRs welcome!
 
 - [DevRel Weekly](https://devrelweekly.com/)
 - [Rendezvous with Cassidoo](https://cassidoo.co/newsletter/)
+- [Scott Spence](https://scottspence.com/newsletter/)
 
 ## Others
 
@@ -140,4 +142,5 @@ Want to contribute to grow/improve this? PRs welcome!
 - [SWYX](https://twitter.com/swyx)
 - [Caroline Lewko](https://twitter.com/CarolineLewko)
 - [Cassie Stewart](https://twitter.com/cassiestewart)
+- [Scott Spence](https://twitter.com/spences10)
 
