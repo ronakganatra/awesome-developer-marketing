@@ -54,11 +54,17 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Content Marketing for Developers Emphasizes the Content, not the Marketing](https://devada.com/content-vs-marketing-understand-the-difference-to-connect-with-developers/)
 - [What Are You Missing in Marketing Your API?](https://devada.com/marketing-your-api/) (⭐)
 - [The Go-to-Market Channels Every Developer Marketer Needs](https://devada.com/channels-every-developer-marketer-needs/)
+- [A Guide to Developer Marketing](https://dev.to/nickparsons/a-guide-to-developer-marketing-in-2020-5f0f)
+- [The Struggle of Marketing to Developers](https://glennstovall.com/marketing-to-developers/)
 - [The key areas of Developer Relations](https://www.samjulien.com/what-is-developer-relations)
 - [Marketing to Developers and building developer relations](https://twitter.com/swyx/status/1367518496326709251) (⭐)
 - [Marketing to Developers](https://twitter.com/swyx/status/1361279902889086980)
 - [How Developer Marketing Parallels Consumer Marketing](https://tomtunguz.com/developer-and-consumer-marketing-parallels/) (⭐)
 - [Dev Marketing: GA to Product Market Fit](https://www.heavybit.com/library/video/dev-marketing-ga-to-product-market-fit/)
+- [Developer Marketing KPIs](https://dev.to/slashdatahq/developer-marketing-kpis-are-different-from-devrel-kpis-3i8l)
+- [Why do Developers hate marketing?](https://hashnode.com/post/why-do-most-of-the-developers-hate-marketing-cjgq1w0hj002r30s21jmx29q5)
+- [Developers hate marketing](https://cloud.google.com/files/apigee/apigee-developers-hate-marketing-ebook.pdf) (⭐)
+- [Developers don't hate marketing](https://dev.to/maxkatz/developers-don-t-hate-marketing-1op)
 
 ## Docs
 
@@ -106,6 +112,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Linear](https://linear.app/graphcms)
 - [Bejamas](https://bejamas.io/)
 - [Hasura](https://hasura.io/)
+- [Snyk](https://snyk.io/)
 - [Auth0](https://auth0.com/)
 - [Netlify](https://www.netlify.com/)
 - [Status](https://status.im/)
@@ -119,11 +126,15 @@ Want to contribute to grow/improve this? PRs welcome!
 
 - [DevRel Weekly](https://devrelweekly.com/)
 - [Rendezvous with Cassidoo](https://cassidoo.co/newsletter/)
+- [Glenn Stovall](https://glennstovall.com/newsletter/)
 
 ## Others
 
 - [X with Y](https://xwithy.com/) - A marketplace for developer content
 - [Enterprise is sexy, but B2D is sexier](https://news.ycombinator.com/item?id=4829229)
+- [Swag for Devs](https://github.com/swapagarwal/swag-for-dev) (⭐)
+- [Developer Marketing does not exist with Adam Duvander](https://dev.to/slashdatahq/developer-marketing-does-not-exist-with-adam-duvander-oh9)
+
 
 ## Twitter Accounts
 
@@ -135,6 +146,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Cassidy Williams](https://twitter.com/cassidoo)
 - [John Papa](https://twitter.com/John_Papa)
 - [Lauren Buchman](https://twitter.com/LaurenJBuchman)
+- [Adam Sturrock](https://twitter.com/ajsturrock)
 - [Lauren Lee](https://twitter.com/LoLoCoding)
 - [Colby Fayock](https://twitter.com/colbyfayock)
 - [SWYX](https://twitter.com/swyx)
