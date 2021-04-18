@@ -104,6 +104,8 @@ Want to contribute to grow/improve this? PRs welcome!
 ## Community Marketing
 
 - [10 Best Practices of Community Managers](https://devada.com/10-best-practices-of-community-managers/)
+- [The Orbit Model: A framework for building high gravity communities](https://github.com/orbit-love/orbit-model) (⭐)
+- [Community-Market Fit: How Do You Know You've Built a Community That People Want?](https://www.commsor.com/post/what-is-community-market-fit) (⭐)
 - [Community Capitalism](https://twitter.com/charlierward/status/1368591361864241157)
 - [Marketing Framework for Communities](https://twitter.com/gregisenberg/status/1363174620912885761)
 - [Community First, Product Second](https://www.producthunt.com/stories/community-first-product-second)
