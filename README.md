@@ -145,7 +145,6 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Glenn Stovall](https://glennstovall.com/newsletter/)
 - [Scott Spence](https://scottspence.com/newsletter/)
 
-
 ## Others
 
 - [X with Y](https://xwithy.com/) - A marketplace for developer content
