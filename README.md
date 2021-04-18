@@ -36,7 +36,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [SWYX](https://www.swyx.io/) 
 - [Scott Spence](https://www.scottspence.com/) 
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
-- [Colby Fayock]()
+- [Colby Fayock](https://www.colbyfayock.com/)
 
 ## Books
 
