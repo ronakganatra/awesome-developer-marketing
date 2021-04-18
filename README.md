@@ -35,6 +35,8 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Tom Wentworth](https://tomwentworth.com/)
 - [SWYX](https://www.swyx.io/) 
 - [Scott Spence](https://www.scottspence.com/) 
+- [Sarah Drasner](https://sarahdrasnerdesign.com/)
+- [Colby Fayock]()
 
 ## Books
 
@@ -112,6 +114,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Getting better at Community Building, one habit at a time](https://rosie.land/posts/getting-better-at-community-building-one-tiny-habit-at-a-time) (⭐)
 - [Coming for the Content, Staying for the Community” Started With Video Games (Or Maybe Religion?) But Will Define Media This Decade](https://hunterwalk.medium.com/coming-for-the-content-staying-for-the-community-started-with-video-games-or-maybe-religion-5083f3773a2)
 - [Community-Led Growth: The Product-Led Growth Expansion Pack](https://corinneriley.medium.com/community-led-growth-the-product-led-growth-expansion-pack-b474ab9a7940) (⭐)
+- [Let's Discuss Developer Relations with Colby and Angie](https://www.youtube.com/watch?v=_q_bWATVJTg)
 
 
 ## Design Inspiration
@@ -146,6 +149,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Rendezvous with Cassidoo](https://cassidoo.co/newsletter/)
 - [Glenn Stovall](https://glennstovall.com/newsletter/)
 - [Scott Spence](https://scottspence.com/newsletter/)
+- [Colby Fayock](https://www.colbyfayock.com/newsletter/)
 
 
 ## Others
@@ -177,4 +181,4 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Cassie Stewart](https://twitter.com/cassiestewart)
 - [Scott Spence](https://twitter.com/spences10)
 - [Jamie Barton](https://twitter.com/notrab)
-
+- [Sarah Drasner](https://twitter.com/sarah_edo)
