@@ -60,6 +60,24 @@ Want to contribute to grow/improve this? PRs welcome!
 - [How Developer Marketing Parallels Consumer Marketing](https://tomtunguz.com/developer-and-consumer-marketing-parallels/) (⭐)
 - [Dev Marketing: GA to Product Market Fit](https://www.heavybit.com/library/video/dev-marketing-ga-to-product-market-fit/)
 
+## Docs
+
+(In Dev. centric products I've learned that docs aren't just a requirement, they're basically a feature. Great docs make marketing so much easier, so here's a list of API docs that I think are extremely well designed/structured for inspiration)
+
+- [TailwindCSS](https://tailwindcss.com/docs)
+- [GraphCMS](https://graphcms.com/docs) 🔌
+- [Gatsby](https://www.gatsbyjs.com/docs/)
+- [Hasura](https://hasura.io/docs/latest/graphql/core/index.html)
+- [Next.js](https://nextjs.org/docs)
+- [GitHub](https://docs.github.com/en)
+- [Shopify](https://shopify.dev/docs)
+- [Prisma](https://www.prisma.io/docs/)
+- [Docker](https://docs.docker.com/)
+- [Stripe](https://stripe.com/docs)
+- [Auth0](https://auth0.com/docs/)
+- [Plaid](https://plaid.com/docs/)
+- [Postman](https://learning.postman.com/docs/getting-started/introduction/)
+
 
 ## Community Marketing
 
@@ -93,6 +111,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Status](https://status.im/)
 - [Stripe](https://stripe.com)
 - [Fey App](https://www.feyapp.com/)
+- [Readme](https://readme.com/)
 - [CircleCI](https://circleci.com/)
 
 
