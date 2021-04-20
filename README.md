@@ -37,6 +37,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Scott Spence](https://www.scottspence.com/) 
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
 - [Colby Fayock](https://www.colbyfayock.com/)
+- [DevRelX](https://www.devrelx.com/blog)
 
 ## Books
 
