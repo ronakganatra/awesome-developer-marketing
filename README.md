@@ -63,6 +63,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [The Go-to-Market Channels Every Developer Marketer Needs](https://devada.com/channels-every-developer-marketer-needs/)
 - [Marketing to Developers with John Britton](https://speakerdeck.com/johndbritton/marketing-to-developers)
 - [A Guide to Developer Marketing](https://dev.to/nickparsons/a-guide-to-developer-marketing-in-2020-5f0f)
+- [Developer Marketing - Is it an oxymoron?](https://fishfaceishi.medium.com/developer-marketing-is-it-an-oxymoron-31ff3c159c32)
 - [A Primer on Developer Marketing](https://tomwentworth.com/2016/10/13/a-primer-on-developer-marketing-47d792d67586/) (⭐)
 - [The Struggle of Marketing to Developers](https://glennstovall.com/marketing-to-developers/)
 - [How to market to Software Developers? A comment thread](https://www.indiehackers.com/forum/how-to-market-to-software-developers-73ee7a15fe)
