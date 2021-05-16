@@ -160,6 +160,8 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Enterprise is sexy, but B2D is sexier](https://news.ycombinator.com/item?id=4829229)
 - [Swag for Devs](https://github.com/swapagarwal/swag-for-dev) (⭐)
 - [Developer Marketing does not exist with Adam Duvander](https://dev.to/slashdatahq/developer-marketing-does-not-exist-with-adam-duvander-oh9)
+- [SaaS companies can grow to $20M+ ARR by selling exclusively to developers – TechCrunch](https://techcrunch.com/2021/05/11/saas-companies-can-grow-to-20m-arr-by-selling-exclusively-to-developers)
+- [The Rise of the Developer](https://www.sequoiacap.com/article/rise-of-the-developer)
 
 
 ## Twitter Accounts
