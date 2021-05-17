@@ -143,6 +143,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Fey App](https://www.feyapp.com/)
 - [Readme](https://readme.com/)
 - [CircleCI](https://circleci.com/)
+- [GitBook](https://www.gitbook.com/)
 
 
 ## Newsletters
