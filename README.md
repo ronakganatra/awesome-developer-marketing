@@ -16,7 +16,7 @@ Want to contribute to grow/improve this? PRs welcome!
 
 ## Basics
 
-- [WTF is Developer Marketing?](https://ironhorse.io/what-is-developer-marketing)
+- WTF is Developer Marketing?: [Option 1](https://ironhorse.io/what-is-developer-marketing) | [Option 2](What is developer marketing?)
 - [WTF is Jamstack?](https://jamstack.org/what-is-jamstack/)
 - [WTF is Developer Relations?](https://www.marythengvall.com/blog/2019/5/22/what-is-developer-relations-and-why-should-you-care)
 - [WTF is B2D?](https://snipcart.com/blog/b2d-marketing-selling-to-developers) (⭐)
@@ -163,6 +163,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Developer Marketing does not exist with Adam Duvander](https://dev.to/slashdatahq/developer-marketing-does-not-exist-with-adam-duvander-oh9)
 - [SaaS companies can grow to $20M+ ARR by selling exclusively to developers – TechCrunch](https://techcrunch.com/2021/05/11/saas-companies-can-grow-to-20m-arr-by-selling-exclusively-to-developers)
 - [The Rise of the Developer](https://www.sequoiacap.com/article/rise-of-the-developer)
+- [Sendgrid's State of the Marketer-Developer Relationship, 2019](https://sendgrid.com/resource/state-of-the-marketer-developer-relationship-in-2019/)
 
 
 ## Twitter Accounts
