@@ -26,6 +26,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [WTF does DevRel do?](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
 - [Is Developer Relations Developer Marketing?](https://aspleenic.medium.com/developer-relations-and-developer-marketing-they-arent-the-same-thing-35b896159825) (⭐)
 - [Learning how to market to developers](https://devada.com/learning-how-market-to-developers/)
+- [Imporance of using experts in Developer Marketing](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/) (⭐)
 
 
 ## Blogs and Websites
