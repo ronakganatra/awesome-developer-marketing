@@ -14,9 +14,9 @@ Want to contribute to grow/improve this? PRs welcome!
 
 ![Awesome Developer Marketing](https://thumbs.gfycat.com/BigFoolishGull-size_restricted.gif)
 
-## Basics
+## Basics (Start Here)
 
-- WTF is Developer Marketing?: [Option 1](https://ironhorse.io/what-is-developer-marketing) | [Option 2](What is developer marketing?)
+- WTF is Developer Marketing? [Option 1](https://ironhorse.io/what-is-developer-marketing) | [Option 2](https://www.datadab.com/blog/developer-marketing/) | [Option 3](https://medium.com/@nishers/what-is-developer-marketing-84dde2ddacc1) | [Option 4](https://developerrelations.com/what-is-b2d-or-developer-marketing)
 - [WTF is Jamstack?](https://jamstack.org/what-is-jamstack/)
 - [WTF is Developer Relations?](https://www.marythengvall.com/blog/2019/5/22/what-is-developer-relations-and-why-should-you-care)
 - [WTF is B2D?](https://snipcart.com/blog/b2d-marketing-selling-to-developers) (⭐)
