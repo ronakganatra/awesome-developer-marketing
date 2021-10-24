@@ -86,6 +86,9 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Why do Developers hate marketing?](https://hashnode.com/post/why-do-most-of-the-developers-hate-marketing-cjgq1w0hj002r30s21jmx29q5)
 - [Developers hate marketing](https://cloud.google.com/files/apigee/apigee-developers-hate-marketing-ebook.pdf) (⭐)
 - [Developers don't hate marketing](https://dev.to/maxkatz/developers-don-t-hate-marketing-1op)
+- [How Developer Marketing Parallels Consumer Marketing](https://tomtunguz.com/developer-and-consumer-marketing-parallels/) (⭐)
+- [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
+- [Amir Shevat on Measuring Developer Relations](https://dev.to/swyx/notes-from-amir-shevat-on-measuring-managing-developer-relations-4geo) - a16z podcast on DevRel management (⭐)
 
 ## Docs
 
@@ -166,6 +169,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [The Rise of the Developer](https://www.sequoiacap.com/article/rise-of-the-developer)
 - [Sendgrid's State of the Marketer-Developer Relationship, 2019](https://sendgrid.com/resource/state-of-the-marketer-developer-relationship-in-2019/)
 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
+
 
 
 ## Twitter Accounts
