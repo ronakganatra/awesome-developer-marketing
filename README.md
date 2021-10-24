@@ -14,7 +14,7 @@ Want to contribute to grow/improve this? PRs welcome!
 
 ![Awesome Developer Marketing](https://thumbs.gfycat.com/BigFoolishGull-size_restricted.gif)
 
-## Basics (Start Here)
+# Basics (Start Here)
 
 - WTF is Developer Marketing? [Option 1](https://ironhorse.io/what-is-developer-marketing) | [Option 2](https://www.datadab.com/blog/developer-marketing/) | [Option 3](https://medium.com/@nishers/what-is-developer-marketing-84dde2ddacc1) | [Option 4](https://developerrelations.com/what-is-b2d-or-developer-marketing)
 - [WTF is Jamstack?](https://jamstack.org/what-is-jamstack/)
@@ -29,7 +29,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Imporance of using experts in Developer Marketing](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/) (⭐)
 
 
-## Blogs and Websites
+# Blogs and Websites
 
 - [Jesse Williams](https://www.jesse-williams.com/)
 - [Mary Thengvall](https://www.marythengvall.com/)
@@ -40,7 +40,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Colby Fayock](https://www.colbyfayock.com/)
 - [DevRelX](https://www.devrelx.com/blog)
 
-## Books
+# Books
 
 - [Developer Marketing and Relations: The Essential Guide](https://www.amazon.com/Developer-Marketing-Relations-Essential-Guide/dp/B08KH3T5TN/ref=sr_1_1)
 - [Developer Marketing Does Not Exist: The Authentic Guide to Reach a Technical Audience](https://www.amazon.com/Developer-Marketing-Does-Not-Exist-ebook/dp/B091NK954H/ref=sr_1_4)
@@ -49,7 +49,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Developer, Advocate!: Conversations on turning a passion for talking about tech into a career](https://www.amazon.com/Developer-Advocate-Conversations-turning-passion/dp/1789138744/ref=rtpb_5)
 - [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862/ref=pd_sim_4)
 
-## Developer Marketing Centric Resources (and some DevRel relevance)
+# Developer Marketing Centric Resources (and some DevRel relevance)
 
 - [The Developer Marketing Guide](https://www.devmarketingguide.com/)
 - [The B2D model and marketing to developers](https://opensenselabs.com/blog/articles/marketing-developers-b2d) (⭐)
@@ -89,8 +89,9 @@ Want to contribute to grow/improve this? PRs welcome!
 - [How Developer Marketing Parallels Consumer Marketing](https://tomtunguz.com/developer-and-consumer-marketing-parallels/) (⭐)
 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - [Amir Shevat on Measuring Developer Relations](https://dev.to/swyx/notes-from-amir-shevat-on-measuring-managing-developer-relations-4geo) - a16z podcast on DevRel management (⭐)
+- [Marketing to Developers: Core Values and Tactical Tips from GitLab’s Former CMO - OpenView](https://openviewpartners.com/blog/marketing-to-developers/#.YWnOXbd8KNw)
 
-## Docs
+# Docs
 
 (In Dev. centric products I've learned that docs aren't just a requirement, they're basically a feature. Great docs make marketing so much easier, so here's a list of API docs that I think are extremely well designed/structured for inspiration)
 
@@ -109,7 +110,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Postman](https://learning.postman.com/docs/getting-started/introduction/)
 
 
-## Community Marketing
+# Community Marketing
 
 - [10 Best Practices of Community Managers](https://devada.com/10-best-practices-of-community-managers/)
 - [The Orbit Model: A framework for building high gravity communities](https://github.com/orbit-love/orbit-model) (⭐)
@@ -123,7 +124,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Let's Discuss Developer Relations with Colby and Angie](https://www.youtube.com/watch?v=_q_bWATVJTg)
 
 
-## Design Inspiration
+# Design Inspiration
 
 - [Supabase](https://supabase.io/)
 - [Prisma](https://www.prisma.io/)
@@ -150,7 +151,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [GitBook](https://www.gitbook.com/)
 
 
-## Newsletters
+# Newsletters
 
 - [DevRel Weekly](https://devrelweekly.com/)
 - [Rendezvous with Cassidoo](https://cassidoo.co/newsletter/)
@@ -159,7 +160,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Colby Fayock](https://www.colbyfayock.com/newsletter/)
 
 
-## Others
+# Others
 
 - [X with Y](https://xwithy.com/) - A marketplace for developer content
 - [Enterprise is sexy, but B2D is sexier](https://news.ycombinator.com/item?id=4829229)
@@ -172,7 +173,7 @@ Want to contribute to grow/improve this? PRs welcome!
 
 
 
-## Twitter Accounts
+# Twitter Accounts
 
 - [Danielle Morrill](https://twitter.com/DanielleMorrill)
 - [Jesse Williams](https://twitter.com/FriendsCallMeJW)
