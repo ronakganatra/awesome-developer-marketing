@@ -90,6 +90,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - [Amir Shevat on Measuring Developer Relations](https://dev.to/swyx/notes-from-amir-shevat-on-measuring-managing-developer-relations-4geo) - a16z podcast on DevRel management (⭐)
 - [Marketing to Developers: Core Values and Tactical Tips from GitLab’s Former CMO - OpenView](https://openviewpartners.com/blog/marketing-to-developers/#.YWnOXbd8KNw)
+- [The many flavors of developer-focused software - OpenView](https://openviewpartners.com/blog/flavors-developer-focused-software)
 
 # Docs
 
