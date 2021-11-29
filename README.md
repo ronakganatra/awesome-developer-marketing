@@ -27,6 +27,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Is Developer Relations Developer Marketing?](https://aspleenic.medium.com/developer-relations-and-developer-marketing-they-arent-the-same-thing-35b896159825) (⭐)
 - [Learning how to market to developers](https://devada.com/learning-how-market-to-developers/)
 - [Imporance of using experts in Developer Marketing](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/) (⭐)
+- [The Developer Advocate's Guide to Metrics and Reporting](https://theworst.dev/developer-advocates-guide-to-metrics-and-reporting)
 
 
 # Blogs and Websites
@@ -89,6 +90,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [How Developer Marketing Parallels Consumer Marketing](https://tomtunguz.com/developer-and-consumer-marketing-parallels/) (⭐)
 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - [Amir Shevat on Measuring Developer Relations](https://dev.to/swyx/notes-from-amir-shevat-on-measuring-managing-developer-relations-4geo) - a16z podcast on DevRel management (⭐)
+- [Developer Relations and Marketing (Category)](https://www.moesif.com/blog/categories/developer-relations/)
 - [Marketing to Developers: Core Values and Tactical Tips from GitLab’s Former CMO - OpenView](https://openviewpartners.com/blog/marketing-to-developers/#.YWnOXbd8KNw)
 
 # Docs
@@ -122,6 +124,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Coming for the Content, Staying for the Community” Started With Video Games (Or Maybe Religion?) But Will Define Media This Decade](https://hunterwalk.medium.com/coming-for-the-content-staying-for-the-community-started-with-video-games-or-maybe-religion-5083f3773a2)
 - [Community-Led Growth: The Product-Led Growth Expansion Pack](https://corinneriley.medium.com/community-led-growth-the-product-led-growth-expansion-pack-b474ab9a7940) (⭐)
 - [Let's Discuss Developer Relations with Colby and Angie](https://www.youtube.com/watch?v=_q_bWATVJTg)
+- [Online communities at every stage of the startup journey](https://gummysearch.com/insights/online-communities/)
 
 
 # Design Inspiration
@@ -170,7 +173,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [The Rise of the Developer](https://www.sequoiacap.com/article/rise-of-the-developer)
 - [Sendgrid's State of the Marketer-Developer Relationship, 2019](https://sendgrid.com/resource/state-of-the-marketer-developer-relationship-in-2019/)
 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
-
+- [How to Market to Developers with Paid Marketing](https://www.moesif.com/blog/developer-marketing/paid-ads/Best-Practices-for-Paid-Marketing-To-Developers/)
 
 
 # Twitter Accounts
