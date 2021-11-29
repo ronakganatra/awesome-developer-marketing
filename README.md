@@ -26,7 +26,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [WTF does DevRel do?](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
 - [Is Developer Relations Developer Marketing?](https://aspleenic.medium.com/developer-relations-and-developer-marketing-they-arent-the-same-thing-35b896159825) (⭐)
 - [Learning how to market to developers](https://devada.com/learning-how-market-to-developers/)
-- [Imporance of using experts in Developer Marketing](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/) (⭐)
+- [Importance of using experts in Developer Marketing](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/) (⭐)
 - [The Developer Advocate's Guide to Metrics and Reporting](https://theworst.dev/developer-advocates-guide-to-metrics-and-reporting)
 
 
@@ -92,6 +92,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Amir Shevat on Measuring Developer Relations](https://dev.to/swyx/notes-from-amir-shevat-on-measuring-managing-developer-relations-4geo) - a16z podcast on DevRel management (⭐)
 - [Developer Relations and Marketing (Category)](https://www.moesif.com/blog/categories/developer-relations/)
 - [Marketing to Developers: Core Values and Tactical Tips from GitLab’s Former CMO - OpenView](https://openviewpartners.com/blog/marketing-to-developers/#.YWnOXbd8KNw)
+- [The many flavors of developer-focused software - OpenView](https://openviewpartners.com/blog/flavors-developer-focused-software)
 
 # Docs
 
