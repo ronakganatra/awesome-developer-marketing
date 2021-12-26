@@ -93,6 +93,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Developer Relations and Marketing (Category)](https://www.moesif.com/blog/categories/developer-relations/)
 - [Marketing to Developers: Core Values and Tactical Tips from GitLab’s Former CMO - OpenView](https://openviewpartners.com/blog/marketing-to-developers/#.YWnOXbd8KNw)
 - [The many flavors of developer-focused software - OpenView](https://openviewpartners.com/blog/flavors-developer-focused-software)
+- [50 Lessons in Developer Marketing](https://twitter.com/nickwritesit/status/1402318187299934212?t=OqepOdSgHEiwDLeGD3PL0A&s=19) (⭐)
 
 # Docs
 
@@ -175,6 +176,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Sendgrid's State of the Marketer-Developer Relationship, 2019](https://sendgrid.com/resource/state-of-the-marketer-developer-relationship-in-2019/)
 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - [How to Market to Developers with Paid Marketing](https://www.moesif.com/blog/developer-marketing/paid-ads/Best-Practices-for-Paid-Marketing-To-Developers/)
+- [The API Landscape](https://apilandscape.platformable.com/)
 
 
 # Twitter Accounts
