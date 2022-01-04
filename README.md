@@ -1,6 +1,4 @@
-![OG](og.png)
-
-# awesome-developer-marketing
+![Awesome Developer Marketing](https://thumbs.gfycat.com/BigFoolishGull-size_restricted.gif)
 
 A living document of (sometimes pretty unstructured and often off-on-a-tangent) hand-picked resources for marketers who're marketing to developers (B2D).
 
@@ -11,8 +9,6 @@ I also have another list of [awesome-marketing](https://github.com/ronakganatra/
 Ever since joining [GraphCMS](https://graphcms.com) I've been on a steep learning curve - figuring out how different B2D is compared to B2C/B2B. I've grown to love the developer mindset of rewarding helpful content, avoiding shady gated practices, and building engaging communities - and I've tried to catalog my resources to help others out as well.
 
 Want to contribute to grow/improve this? PRs welcome!
-
-![Awesome Developer Marketing](https://thumbs.gfycat.com/BigFoolishGull-size_restricted.gif)
 
 # Basics (Start Here)
 
