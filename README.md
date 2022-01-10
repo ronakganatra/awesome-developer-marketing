@@ -45,6 +45,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [The Business Value of Developer Relations: How and Why Technical Communities Are Key To Your Success](https://www.amazon.com/Business-Value-Developer-Relations-Communities/dp/1484237471/ref=sr_1_13)
 - [Developer, Advocate!: Conversations on turning a passion for talking about tech into a career](https://www.amazon.com/Developer-Advocate-Conversations-turning-passion/dp/1789138744/ref=rtpb_5)
 - [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862/ref=pd_sim_4)
+- [Developer Relations: How to Build and Grow a Successful Developer Program](https://www.amazon.com/Developer-Relations-Build-Successful-Program/dp/1484271637)
 
 # Developer Marketing Centric Resources (and some DevRel relevance)
 
@@ -90,6 +91,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Marketing to Developers: Core Values and Tactical Tips from GitLab’s Former CMO - OpenView](https://openviewpartners.com/blog/marketing-to-developers/#.YWnOXbd8KNw)
 - [The many flavors of developer-focused software - OpenView](https://openviewpartners.com/blog/flavors-developer-focused-software)
 - [50 Lessons in Developer Marketing](https://twitter.com/nickwritesit/status/1402318187299934212?t=OqepOdSgHEiwDLeGD3PL0A&s=19) (⭐)
+- [The Developer-Led Landscape](https://tylerjewell.substack.com/p/the-developer-led-landscape-20-08-28)
 
 # Docs
 
