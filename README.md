@@ -46,7 +46,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Developer, Advocate!: Conversations on turning a passion for talking about tech into a career](https://www.amazon.com/Developer-Advocate-Conversations-turning-passion/dp/1789138744/ref=rtpb_5)
 - [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862/ref=pd_sim_4)
 - [Developer Relations: How to Build and Grow a Successful Developer Program](https://www.amazon.com/Developer-Relations-Build-Successful-Program/dp/1484271637)
-- [The Developer's Guide To Content Creation](https://www.stephaniemorillo.co/product-page/the-developer-s-guide-to-content-creation)
+- [The Developer's Guide To Content Creation](https://www.stephaniemorillo.co/product-page/the-developer-s-guide-to-content-creation) 💰$29💰
 
 # Developer Marketing Centric Resources (and some DevRel relevance)
 
