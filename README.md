@@ -36,6 +36,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
 - [Colby Fayock](https://www.colbyfayock.com/)
 - [DevRelX](https://www.devrelx.com/blog)
+- [Developer Markepear](https://www.developermarkepear.com/)
 
 # Books
 
