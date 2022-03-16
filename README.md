@@ -12,7 +12,7 @@ Want to contribute to grow/improve this? PRs welcome!
 
 # Basics (Start Here)
 
-- WTF is Developer Marketing? [Option 1](https://ironhorse.io/what-is-developer-marketing) | [Option 2](https://www.datadab.com/blog/developer-marketing/) | [Option 3](https://medium.com/@nishers/what-is-developer-marketing-84dde2ddacc1) | [Option 4](https://developerrelations.com/what-is-b2d-or-developer-marketing)
+- WTF is Developer Marketing? [Option 1](https://ironhorse.io/what-is-developer-marketing) | [Option 2](https://www.datadab.com/blog/developer-marketing/) | [Option 3](https://medium.com/@nishers/what-is-developer-marketing-84dde2ddacc1) | [Option 4](https://developerrelations.com/what-is-b2d-or-developer-marketing) | [Option 5](https://draft.dev/learn/developer-marketing)
 - [WTF is Jamstack?](https://jamstack.org/what-is-jamstack/)
 - [WTF is Developer Relations?](https://www.marythengvall.com/blog/2019/5/22/what-is-developer-relations-and-why-should-you-care)
 - [WTF is B2D?](https://snipcart.com/blog/b2d-marketing-selling-to-developers) (⭐)
@@ -37,6 +37,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Colby Fayock](https://www.colbyfayock.com/)
 - [DevRelX](https://www.devrelx.com/blog)
 - [Developer Markepear](https://www.developermarkepear.com/)
+- [Draft.dev Blog](https://draft.dev/learn/)
 
 # Books
 
@@ -94,6 +95,9 @@ Want to contribute to grow/improve this? PRs welcome!
 - [The many flavors of developer-focused software - OpenView](https://openviewpartners.com/blog/flavors-developer-focused-software)
 - [50 Lessons in Developer Marketing](https://twitter.com/nickwritesit/status/1402318187299934212?t=OqepOdSgHEiwDLeGD3PL0A&s=19) (⭐)
 - [The Developer-Led Landscape](https://tylerjewell.substack.com/p/the-developer-led-landscape-20-08-28)
+- [How to Write Better Technical Content](https://draft.dev/learn/technical-content)
+- [The Technical Content Manager's Playbook](https://draft.dev/playbook)
+- [How to Find Technical Writers for Hire](https://draft.dev/learn/technical-writer-for-hire)
 
 # Docs
 
