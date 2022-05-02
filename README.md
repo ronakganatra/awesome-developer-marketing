@@ -38,6 +38,9 @@ Want to contribute to grow/improve this? PRs welcome!
 - [DevRelX](https://www.devrelx.com/blog)
 - [Developer Markepear](https://www.developermarkepear.com/)
 - [Draft.dev Blog](https://draft.dev/learn/)
+- [Every Developer](https://everydeveloper.com/blog/)
+- [BitReach blog](https://blog.bitreach.io/)
+- [DEV.BIZ.OPS](https://devbizops.medium.com/)
 
 # Books
 
@@ -88,7 +91,6 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Developers hate marketing](https://cloud.google.com/files/apigee/apigee-developers-hate-marketing-ebook.pdf) (⭐)
 - [Developers don't hate marketing](https://dev.to/maxkatz/developers-don-t-hate-marketing-1op)
 - [How Developer Marketing Parallels Consumer Marketing](https://tomtunguz.com/developer-and-consumer-marketing-parallels/) (⭐)
-- [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - [Amir Shevat on Measuring Developer Relations](https://dev.to/swyx/notes-from-amir-shevat-on-measuring-managing-developer-relations-4geo) - a16z podcast on DevRel management (⭐)
 - [Developer Relations and Marketing (Category)](https://www.moesif.com/blog/categories/developer-relations/)
 - [Marketing to Developers: Core Values and Tactical Tips from GitLab’s Former CMO - OpenView](https://openviewpartners.com/blog/marketing-to-developers/#.YWnOXbd8KNw)
@@ -98,6 +100,13 @@ Want to contribute to grow/improve this? PRs welcome!
 - [How to Write Better Technical Content](https://draft.dev/learn/technical-content)
 - [The Technical Content Manager's Playbook](https://draft.dev/playbook)
 - [How to Find Technical Writers for Hire](https://draft.dev/learn/technical-writer-for-hire)
+- [The developer-focused go-to-market playbook](https://offers.openviewpartners.com/developerfocusedgtmplaybook)
+- [How GitHub Built a $7.5B Sales Machine](https://firstmark.medium.com/setting-up-your-sales-machine-565219192e64)
+- [Selling to Developers: Ten Lessons Learned](https://www.indiehackers.com/@PovilasKorop/97fda7c81f)
+- [a16z Podcast: Selling to Developers](https://a16z.com/2016/04/13/selling-to-developers-open-source-business-models/)
+- [Building a Go-to-Market Strategy for Developer Tools](https://mattermost.com/blog/go-to-market-strategy-for-developer-tools/)
+- [Masterclass: How to sell to 20M software developers with an amazing onboarding experience](https://blog.garrytan.com/masterclass-with-algolia-how-to-capture-the-heart-of-20m-software-developers)
+- [How to dev marketing](https://blog.bitreach.io/how-to-do-dev-marketing/)
 
 # Docs
 
@@ -158,6 +167,8 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Readme](https://readme.com/)
 - [CircleCI](https://circleci.com/)
 - [GitBook](https://www.gitbook.com/)
+- [Stream](https://getstream.io/)
+- [Retool](https://retool.com/)
 
 
 # Newsletters
@@ -181,7 +192,8 @@ Want to contribute to grow/improve this? PRs welcome!
 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - [How to Market to Developers with Paid Marketing](https://www.moesif.com/blog/developer-marketing/paid-ads/Best-Practices-for-Paid-Marketing-To-Developers/)
 - [The API Landscape](https://apilandscape.platformable.com/)
-
+- [Blogging For Devs](https://bloggingfordevs.com/)
+- [Scaling DevTools](https://podcast.bitreach.io/)
 
 # Twitter Accounts
 
@@ -205,3 +217,5 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Scott Spence](https://twitter.com/spences10)
 - [Jamie Barton](https://twitter.com/notrab)
 - [Sarah Drasner](https://twitter.com/sarah_edo)
+- [Adam DuVander](https://twitter.com/adamd)
+- [Karl L Hughes](https://twitter.com/KarlLHughes)
