@@ -127,6 +127,16 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Postman](https://learning.postman.com/docs/getting-started/introduction/)
 
 
+# Case Studies
+
+- [From PPC to IPO: How Snowflake Did It](https://foundationinc.co/lab/snowflake-ipo)
+- [How Microsoft crushed Slack](https://www.platformer.news/p/how-microsoft-crushed-slack)
+- [How Segment grew to a 1Billion business](https://growthhackers.com/growth-studies/segment-revolutionizing-customer-experience-with-data)
+- [How Stripe Scaled - Notes from Office Hours with Claire Hughes Johnson](https://tomtunguz.com/claire-hughes-johnson-notes/)
+- [Stripe's model of product-led, developer-centric growth.](https://lethain.com/stripe-product-led-developer-centric-growth/)
+- [How Segment Scaled - from 300% to 40% to 100% YoY Growth](https://twitter.com/reinpk/status/1485608412683509764)
+
+
 # Community Marketing
 
 - [10 Best Practices of Community Managers](https://devada.com/10-best-practices-of-community-managers/)
