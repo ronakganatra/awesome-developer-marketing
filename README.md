@@ -6,7 +6,7 @@ A living document of (sometimes pretty unstructured and often off-on-a-tangent) 
 
 I also have another list of [awesome-marketing](https://github.com/ronakganatra/awesome-marketing) resources.
 
-Ever since joining [GraphCMS](https://graphcms.com) I've been on a steep learning curve - figuring out how different B2D is compared to B2C/B2B. I've grown to love the developer mindset of rewarding helpful content, avoiding shady gated practices, and building engaging communities - and I've tried to catalog my resources to help others out as well.
+Back since joining ~GraphCMS~ [Hygraph](https://hygraph.com) I've been on a steep learning curve on developer marketing - figuring out how different B2D is compared to B2C/B2B. I've grown to love the developer mindset of rewarding helpful content, avoiding shady gated practices, and building engaging communities - and I've tried to catalog my resources to help others out as well. Even though I'm now at [Lano](https://lano.io), I try to stay active in speaking with companies in the API space and co-running a developer marketing community, constantly maintaining this list as and when I find interesting resources!
 
 Want to contribute to grow/improve this? PRs welcome!
 
