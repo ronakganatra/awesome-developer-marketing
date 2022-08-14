@@ -21,7 +21,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [WTF is a Developer Marketing Strategy?](https://www.jesse-williams.com/creating-developer-marketing-strategy) (⭐)
 - [WTF does DevRel do?](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
 - [Is Developer Relations Developer Marketing?](https://aspleenic.medium.com/developer-relations-and-developer-marketing-they-arent-the-same-thing-35b896159825) (⭐)
-- [Learning how to market to developers](https://devada.com/learning-how-market-to-developers/)
+- [Learning how to market to developers](https://web.archive.org/web/20210119213330/https://devada.com/learning-how-market-to-developers/) (linked to Wayback Machine since original post was 404'd)
 - [Importance of using experts in Developer Marketing](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/) (⭐)
 - [The Developer Advocate's Guide to Metrics and Reporting](https://theworst.dev/developer-advocates-guide-to-metrics-and-reporting)
 
