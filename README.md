@@ -41,6 +41,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Every Developer](https://everydeveloper.com/blog/)
 - [BitReach blog](https://blog.bitreach.io/)
 - [DEV.BIZ.OPS](https://devbizops.medium.com/)
+- [Developer Markepear](https://www.developermarkepear.com)
 
 # Books
 
@@ -56,6 +57,7 @@ Want to contribute to grow/improve this? PRs welcome!
 # Developer Marketing Centric Resources (and some DevRel relevance)
 
 - [The Developer Marketing Guide](https://www.devmarketingguide.com/)
+- [Developer Marketing Guide by Developer Markepear](https://www.developermarkepear.com/blog/developer-marketing-guide)
 - [The B2D model and marketing to developers](https://opensenselabs.com/blog/articles/marketing-developers-b2d) (⭐)
 - [The B2D Sales Process](https://manticoreblog.wordpress.com/2017/01/15/b2d-marketing/)
 - [How to build a strong developer brand?](https://helenmin.com/blog/marketing-to-developers) (⭐)
