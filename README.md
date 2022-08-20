@@ -2,6 +2,8 @@
 
 A living document of (sometimes pretty unstructured and often off-on-a-tangent) hand-picked resources for marketers who're marketing to developers (B2D).
 
+If you're in B2D or actively marketing to developers and want to join a likeminded group of people, check out the [Developer Marketing Community](https://marketingto.dev/) I'm co-building with [Jakub Czakon](https://twitter.com/jczakon/).
+
 🚧 Very much still a work in progress 🚧
 
 I also have another list of [awesome-marketing](https://github.com/ronakganatra/awesome-marketing) resources.
