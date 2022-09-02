@@ -184,6 +184,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [GitBook](https://www.gitbook.com/)
 - [Stream](https://getstream.io/)
 - [Retool](https://retool.com/)
+- [Frontegg](https://frontegg.com/)
 
 
 # Newsletters
