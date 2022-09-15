@@ -28,6 +28,11 @@ Want to contribute to grow/improve this? PRs welcome!
 - [The Developer Advocate's Guide to Metrics and Reporting](https://theworst.dev/developer-advocates-guide-to-metrics-and-reporting)
 
 
+# Internal Handbooks
+
+- [GitLab’s Marketing Handbook](https://about.gitlab.com/handbook/marketing/)
+- [PostHog’s Marketing Handbook](https://posthog.com/handbook/growth/marketing)
+
 # Blogs and Websites
 
 - [Jesse Williams](https://www.jesse-williams.com/)
