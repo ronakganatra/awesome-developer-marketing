@@ -190,6 +190,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Stream](https://getstream.io/)
 - [Retool](https://retool.com/)
 - [Frontegg](https://frontegg.com/)
+- [NeptuneAI](http://neptune.ai/)
 
 
 # Newsletters
