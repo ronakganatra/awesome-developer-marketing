@@ -35,6 +35,7 @@ Want to contribute to grow/improve this? PRs welcome!
 
 # Blogs and Websites
 
+- [Helen Minn](https://helenmin.com/blog)
 - [Jesse Williams](https://www.jesse-williams.com/)
 - [Mary Thengvall](https://www.marythengvall.com/)
 - [Tom Wentworth](https://tomwentworth.com/)
