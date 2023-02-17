@@ -135,6 +135,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Auth0](https://auth0.com/docs/)
 - [Plaid](https://plaid.com/docs/)
 - [Postman](https://learning.postman.com/docs/getting-started/introduction/)
+- [Algolia](https://www.algolia.com/doc/)
 
 
 # Case Studies
