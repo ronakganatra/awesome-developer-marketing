@@ -50,6 +50,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [BitReach blog](https://blog.bitreach.io/)
 - [DEV.BIZ.OPS](https://devbizops.medium.com/)
 - [Developer Markepear](https://www.developermarkepear.com)
+- [Developer Marketing Examples by Florian Merian](https://fmerian.slite.page/p/DDMBOYju8lAMDQ/Developer-Marketing-Examples)
 
 # Books
 
