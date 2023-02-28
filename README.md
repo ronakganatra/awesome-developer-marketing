@@ -50,7 +50,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [BitReach blog](https://blog.bitreach.io/)
 - [DEV.BIZ.OPS](https://devbizops.medium.com/)
 - [Developer Markepear](https://www.developermarkepear.com)
-- [Developer Marketing Examples by Florian Merian](https://fmerian.slite.page/p/DDMBOYju8lAMDQ/Developer-Marketing-Examples)
+- [Developer Marketing Examples by Florent Merian](https://fmerian.slite.page/p/DDMBOYju8lAMDQ/Developer-Marketing-Examples)
 
 # Books
 
@@ -194,6 +194,9 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Retool](https://retool.com/)
 - [Frontegg](https://frontegg.com/)
 - [NeptuneAI](http://neptune.ai/)
+- [Railway](https://railway.app/)
+- [Raycast](https://raycast.com/)
+- [Liveblocks](https://liveblocks.io/)
 
 
 # Newsletters
