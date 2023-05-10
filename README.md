@@ -153,6 +153,8 @@ Want to contribute to grow/improve this? PRs welcome!
 - [How Segment Scaled - from 300% to 40% to 100% YoY Growth](https://twitter.com/reinpk/status/1485608412683509764)
 - [From Open-Source to Enterprise: How Vercel Built a Product-Led Motion on top of NextJS](https://www.decibel.vc/content/from-open-source-to-enterprise-how-vercel-built-a-product-led-motion)
 - [Content(ful) is King](https://www.topofthelyne.co/p/contentful-is-king)
+- [How Notion Grows](https://uxplanet.org/how-notion-grows-5cf152e81e46)
+- [Inside Jasper's explosive growth through PLG and community](https://kylepoyar.substack.com/p/your-guide-to-ai-and-plg)
 
 
 # Community Marketing
