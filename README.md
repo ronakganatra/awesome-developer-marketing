@@ -122,6 +122,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Building a Go-to-Market Strategy for Developer Tools](https://mattermost.com/blog/go-to-market-strategy-for-developer-tools/)
 - [Masterclass: How to sell to 20M software developers with an amazing onboarding experience](https://blog.garrytan.com/masterclass-with-algolia-how-to-capture-the-heart-of-20m-software-developers)
 - [How to dev marketing](https://blog.bitreach.io/how-to-do-dev-marketing/)
+- [Launching developer tools on Product Hunt](https://ronakganatra.com/successfully-launch-dev-tools-on-producthunt)
 
 # Docs
 
