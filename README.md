@@ -1,18 +1,14 @@
 ![Awesome Developer Marketing](https://thumbs.gfycat.com/BigFoolishGull-size_restricted.gif)
 
-A living document of (sometimes pretty unstructured and often off-on-a-tangent) hand-picked resources for marketers who're marketing to developers (B2D).
+A living document of (sometimes pretty unstructured and often off-on-a-tangent) hand-picked resources for marketers who're marketing to developers (B2D). I also have another list of [awesome-marketing](https://github.com/ronakganatra/awesome-marketing) resources.
 
 If you're in B2D or actively marketing to developers and want to join a likeminded group of people, check out the [Developer Marketing Community](https://marketingto.dev/) I'm co-building.
 
-I'm also co-building [Savepad](https://savepad.app) - a collaborative swipe file SaaS for cross-functional growth/marketing teams. Savepad is your little corner on the internet to store, organize, reference, and share all the amazing inspiration, resources, and examples you find online.
+I'm also co-building [Savepad](https://savepad.app) - a collaborative swipe file SaaS for cross-functional growth/marketing teams. Savepad is your little corner on the internet to store, organize, reference, and share all the amazing inspiration, resources, and examples you find online. Join the waitlist 👇
+
+[<img src="https://raw.githubusercontent.com/ronakganatra/ronakganatra/master/Waitlist%20Banner.png">](https://savepad.app)
 
 If you found this list helpful, tweet it to let other dev marketers find it!
-
-🚧 Very much still a work in progress 🚧
-
-I also have another list of [awesome-marketing](https://github.com/ronakganatra/awesome-marketing) resources.
-
-I've been on a steep learning curve on developer marketing - figuring out how different B2D is compared to B2C/B2B. I've grown to love the developer mindset of rewarding helpful content, avoiding shady gated practices, and building engaging communities - and I've tried to catalog my resources to help others out as well. Even though I'm now at [Lano](https://lano.io), I try to stay active in speaking with companies in the API space and co-running a developer marketing community, constantly maintaining this list as and when I find interesting resources!
 
 Want to contribute to grow/improve this? PRs welcome!
 
