@@ -152,6 +152,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Content(ful) is King](https://www.topofthelyne.co/p/contentful-is-king)
 - [How Notion Grows](https://uxplanet.org/how-notion-grows-5cf152e81e46)
 - [Inside Jasper's explosive growth through PLG and community](https://kylepoyar.substack.com/p/your-guide-to-ai-and-plg)
+- [How we launch at Supabase](https://supabase.com/blog/supabase-how-we-launch)
 
 
 # Community Marketing
