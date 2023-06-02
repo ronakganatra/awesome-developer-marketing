@@ -119,6 +119,8 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Masterclass: How to sell to 20M software developers with an amazing onboarding experience](https://blog.garrytan.com/masterclass-with-algolia-how-to-capture-the-heart-of-20m-software-developers)
 - [How to dev marketing](https://blog.bitreach.io/how-to-do-dev-marketing/)
 - [Launching developer tools on Product Hunt](https://ronakganatra.com/successfully-launch-dev-tools-on-producthunt)
+- [Why traditional marketing fails for developers and what to do about it](https://www.crowd.dev/post/why-traditional-marketing-fails-for-developers-and-what-to-do-about-it)
+- 
 
 # Docs
 
@@ -153,6 +155,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [How Notion Grows](https://uxplanet.org/how-notion-grows-5cf152e81e46)
 - [Inside Jasper's explosive growth through PLG and community](https://kylepoyar.substack.com/p/your-guide-to-ai-and-plg)
 - [How we launch at Supabase](https://supabase.com/blog/supabase-how-we-launch)
+- [How Novu grew to 20k GitHub stars](https://www.crowd.dev/post/how-to-grow-a-github-project-to-20k-stars-with-nevo-david-novu)
 
 
 # Community Marketing
@@ -168,6 +171,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Community-Led Growth: The Product-Led Growth Expansion Pack](https://corinneriley.medium.com/community-led-growth-the-product-led-growth-expansion-pack-b474ab9a7940) (⭐)
 - [Let's Discuss Developer Relations with Colby and Angie](https://www.youtube.com/watch?v=_q_bWATVJTg)
 - [Online communities at every stage of the startup journey](https://gummysearch.com/insights/online-communities/)
+- [How to build a developer community: a step-by-step guide‍](https://www.crowd.dev/post/how-to-build-a-developer-community-a-step-by-step-guide-2022)
 
 
 # Design Inspiration
@@ -227,6 +231,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [The API Landscape](https://apilandscape.platformable.com/)
 - [Blogging For Devs](https://bloggingfordevs.com/)
 - [Scaling DevTools](https://podcast.bitreach.io/)
+- [Marketing Jobs in OSS Startups](https://www.ossjobs.dev/?category=Marketing)
 
 # Twitter Accounts
 
