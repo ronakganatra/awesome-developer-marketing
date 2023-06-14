@@ -120,7 +120,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [How to dev marketing](https://blog.bitreach.io/how-to-do-dev-marketing/)
 - [Launching developer tools on Product Hunt](https://ronakganatra.com/successfully-launch-dev-tools-on-producthunt)
 - [Why traditional marketing fails for developers and what to do about it](https://www.crowd.dev/post/why-traditional-marketing-fails-for-developers-and-what-to-do-about-it)
-- 
+- [Guardians of the Content Galaxy - A content development framework for DevRel teams](https://devfirst.substack.com/p/guardians-of-the-content-galaxy)
 
 # Docs
 
@@ -215,6 +215,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Glenn Stovall](https://glennstovall.com/newsletter/)
 - [Scott Spence](https://scottspence.com/newsletter/)
 - [Colby Fayock](https://www.colbyfayock.com/newsletter/)
+- [DevFirst By Francesca Krihely](https://devfirst.substack.com/)
 
 
 # Others
