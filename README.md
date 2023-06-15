@@ -156,6 +156,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Inside Jasper's explosive growth through PLG and community](https://kylepoyar.substack.com/p/your-guide-to-ai-and-plg)
 - [How we launch at Supabase](https://supabase.com/blog/supabase-how-we-launch)
 - [How Novu grew to 20k GitHub stars](https://www.crowd.dev/post/how-to-grow-a-github-project-to-20k-stars-with-nevo-david-novu)
+- [How to get the first 1000 Github stars for an Open Source project by GetLago](https://github.com/getlago/lago/wiki/How-to-get-the-first-1000-Github-stars-for-an-Open-Source-project)
 
 
 # Community Marketing
