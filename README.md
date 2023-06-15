@@ -219,6 +219,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [DevFirst By Francesca Krihely](https://devfirst.substack.com/)
 - [DevTools Brew by Morgan Perry](https://morganperry.substack.com/)
 - [Newslepear by Kuba](https://newslepear.beehiiv.com/)
+- [Github20K by Nevo from Novu](https://www.github20k.com/)
 
 
 # Others
