@@ -217,6 +217,8 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Scott Spence](https://scottspence.com/newsletter/)
 - [Colby Fayock](https://www.colbyfayock.com/newsletter/)
 - [DevFirst By Francesca Krihely](https://devfirst.substack.com/)
+- [DevTools Brew by Morgan Perry](https://morganperry.substack.com/)
+- [Newslepear by Kuba](https://newslepear.beehiiv.com/)
 
 
 # Others
