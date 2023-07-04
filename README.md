@@ -121,6 +121,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Launching developer tools on Product Hunt](https://ronakganatra.com/successfully-launch-dev-tools-on-producthunt)
 - [Why traditional marketing fails for developers and what to do about it](https://www.crowd.dev/post/why-traditional-marketing-fails-for-developers-and-what-to-do-about-it)
 - [Guardians of the Content Galaxy - A content development framework for DevRel teams](https://devfirst.substack.com/p/guardians-of-the-content-galaxy)
+- [DevRel metrics by Kamran](https://kamranayub.com/metrics/)
 
 # Docs
 
