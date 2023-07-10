@@ -241,27 +241,31 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Scaling DevTools](https://podcast.bitreach.io/)
 - [Marketing Jobs in OSS Startups](https://www.ossjobs.dev/?category=Marketing)
 
-# Twitter Accounts
+# Influencers and Educators
 
+This is a developing list that's "generalized" as dev influencers from the dev rel space. Some have specific areas of expertise that I've tried my best to catalog.
+
+- [Jason Lengstorf](https://twitter.com/jlengstorf) - focuses on educational JS content on his [Learn with Jason](https://www.learnwithjason.dev/about) show
+- [Hussein Nasser](https://twitter.com/hnasr) - focuses on backend development and on his [YouTube channel](https://www.youtube.com/c/HusseinNasser-software-engineering/about)
+- [Sarah Dayan](https://twitter.com/frontstuff_io) - focuses on Jamstack, Search, and Developer Experience
+- [Kent Dodds](https://twitter.com/kentcdodds) - focuses on frontend dev, and offers some courses via his [website](https://kentcdodds.com/)
+- [Cassidy Williams](https://twitter.com/cassidoo) - creates great content on frontend, Jamstack, and developer experience, and pushes out a great [newsletter](https://cassidoo.co/newsletter/)
+- [Ania Kubow](https://twitter.com/ania_kubow) - focuses on APIs, Jamstack, frontend, and GraphQL, with a very popular [YouTube channel](https://www.youtube.com/@AniaKubow)
+- [Colby Fayock](https://twitter.com/colbyfayock?lang=en) -  focuses on teaching Jamstack and NextJS, and has a weekly newsletter via [his website](https://www.colbyfayock.com/)
+- [Jamie Barton](https://twitter.com/notrab) - focuses on GraphQL, shipping out weekly videos on his [GraphQL WTF](https://graphql.wtf) channel
 - [Danielle Morrill](https://twitter.com/DanielleMorrill)
-- [Jesse Williams](https://twitter.com/FriendsCallMeJW)
-- [Nisha Baxi](https://twitter.com/nishers)
 - [Mary Thengvall](https://twitter.com/mary_grace)
 - [John Britton](https://twitter.com/johndbritton)
 - [Salma](https://twitter.com/whitep4nth3r)
 - [Ashley Smith](https://twitter.com/ashl3ysm1th)
 - [Stephanie Morillo](https://twitter.com/radiomorillo)
-- [Cassidy Williams](https://twitter.com/cassidoo)
 - [John Papa](https://twitter.com/John_Papa)
 - [Lauren Buchman](https://twitter.com/LaurenJBuchman)
-- [Adam Sturrock](https://twitter.com/ajsturrock)
 - [Lauren Lee](https://twitter.com/LoLoCoding)
-- [Colby Fayock](https://twitter.com/colbyfayock)
 - [SWYX](https://twitter.com/swyx)
 - [Caroline Lewko](https://twitter.com/CarolineLewko)
 - [Cassie Stewart](https://twitter.com/cassiestewart)
 - [Scott Spence](https://twitter.com/spences10)
-- [Jamie Barton](https://twitter.com/notrab)
 - [Sarah Drasner](https://twitter.com/sarah_edo)
 - [Adam DuVander](https://twitter.com/adamd)
 - [Karl L Hughes](https://twitter.com/KarlLHughes)
