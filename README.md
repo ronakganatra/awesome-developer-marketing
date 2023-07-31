@@ -269,3 +269,4 @@ This is a developing list that's "generalized" as dev influencers from the dev r
 - [Sarah Drasner](https://twitter.com/sarah_edo)
 - [Adam DuVander](https://twitter.com/adamd)
 - [Karl L Hughes](https://twitter.com/KarlLHughes)
+- [240+ Dev. Content Creators by CrowdDotDev](https://github.com/CrowdDotDev/devcontentcreators)
