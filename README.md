@@ -118,7 +118,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Building a Go-to-Market Strategy for Developer Tools](https://mattermost.com/blog/go-to-market-strategy-for-developer-tools/)
 - [Masterclass: How to sell to 20M software developers with an amazing onboarding experience](https://blog.garrytan.com/masterclass-with-algolia-how-to-capture-the-heart-of-20m-software-developers)
 - [How to dev marketing](https://blog.bitreach.io/how-to-do-dev-marketing/)
-- [Launching developer tools on Product Hunt](https://ronakganatra.com/successfully-launch-dev-tools-on-producthunt)
+- [Launching developer tools on Product Hunt](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt)
 - [Why traditional marketing fails for developers and what to do about it](https://www.crowd.dev/post/why-traditional-marketing-fails-for-developers-and-what-to-do-about-it)
 - [Guardians of the Content Galaxy - A content development framework for DevRel teams](https://devfirst.substack.com/p/guardians-of-the-content-galaxy)
 - [DevRel metrics by Kamran](https://kamranayub.com/metrics/)
