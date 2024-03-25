@@ -123,6 +123,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Guardians of the Content Galaxy - A content development framework for DevRel teams](https://devfirst.substack.com/p/guardians-of-the-content-galaxy)
 - [DevRel metrics by Kamran](https://kamranayub.com/metrics/)
 - [Dev tool marketing for early-stage startups – lessons learned from PostHog](https://posthog.com/founders/dev-marketing-for-startups)
+- [On developer marketing](https://leerob.io/blog/developer-marketing)
 
 # Docs
 
