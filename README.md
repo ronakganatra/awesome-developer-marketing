@@ -12,6 +12,7 @@ If you found this list helpful, tweet it to let other dev marketers find it!
 
 Want to contribute to grow/improve this? PRs welcome!
 
+
 # Basics (Start Here)
 
 - WTF is Developer Marketing? [Option 1](https://ironhorse.io/what-is-developer-marketing) | [Option 2](https://www.datadab.com/blog/developer-marketing/) | [Option 3](https://medium.com/@nishers/what-is-developer-marketing-84dde2ddacc1) | [Option 4](https://developerrelations.com/what-is-b2d-or-developer-marketing) | [Option 5](https://draft.dev/learn/developer-marketing)
@@ -20,12 +21,10 @@ Want to contribute to grow/improve this? PRs welcome!
 - [WTF is B2D?](https://snipcart.com/blog/b2d-marketing-selling-to-developers) (⭐)
 - [WTF is a Developer Marketing Plan?](https://www.datadab.com/blog/developer-marketing/)
 - [WTF is Headless Software?](https://techoverflow.net/2019/05/17/what-is-a-headless-program-or-application/)
-- [WTF is a Developer Marketing Strategy?](https://www.jesse-williams.com/creating-developer-marketing-strategy) (⭐)
 - [WTF does DevRel do?](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
 - [Is Developer Relations Developer Marketing?](https://aspleenic.medium.com/developer-relations-and-developer-marketing-they-arent-the-same-thing-35b896159825) (⭐)
 - [Learning how to market to developers](https://web.archive.org/web/20210119213330/https://devada.com/learning-how-market-to-developers/) (linked to Wayback Machine since original post was 404'd)
 - [Importance of using experts in Developer Marketing](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/) (⭐)
-- [The Developer Advocate's Guide to Metrics and Reporting](https://theworst.dev/developer-advocates-guide-to-metrics-and-reporting)
 
 
 # Internal Handbooks
@@ -33,10 +32,10 @@ Want to contribute to grow/improve this? PRs welcome!
 - [GitLab’s Marketing Handbook](https://about.gitlab.com/handbook/marketing/)
 - [PostHog’s Marketing Handbook](https://posthog.com/handbook/growth/marketing)
 
+
 # Blogs and Websites
 
-- [Helen Minn](https://helenmin.com/blog)
-- [Jesse Williams](https://www.jesse-williams.com/)
+- [Helen Min](https://helenmin.com/blog)
 - [Mary Thengvall](https://www.marythengvall.com/)
 - [Tom Wentworth](https://tomwentworth.com/)
 - [SWYX](https://www.swyx.io/) 
@@ -44,13 +43,13 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
 - [Colby Fayock](https://www.colbyfayock.com/)
 - [DevRelX](https://www.devrelx.com/blog)
-- [Developer Markepear](https://www.developermarkepear.com/)
 - [Draft.dev Blog](https://draft.dev/learn/)
 - [Every Developer](https://everydeveloper.com/blog/)
 - [BitReach blog](https://blog.bitreach.io/)
 - [DEV.BIZ.OPS](https://devbizops.medium.com/)
 - [Developer Markepear](https://www.developermarkepear.com)
 - [Developer Marketing Examples by Florent Merian](https://fmerian.slite.page/p/DDMBOYju8lAMDQ/Developer-Marketing-Examples)
+
 
 # Books
 
@@ -62,6 +61,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862/ref=pd_sim_4)
 - [Developer Relations: How to Build and Grow a Successful Developer Program](https://www.amazon.com/Developer-Relations-Build-Successful-Program/dp/1484271637)
 - [The Developer's Guide To Content Creation](https://www.stephaniemorillo.co/product-page/the-developer-s-guide-to-content-creation) 💰$29💰
+
 
 # Developer Marketing Centric Resources (and some DevRel relevance)
 
@@ -125,6 +125,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Dev tool marketing for early-stage startups – lessons learned from PostHog](https://posthog.com/founders/dev-marketing-for-startups)
 - [On developer marketing](https://leerob.io/blog/developer-marketing)
 
+
 # Docs
 
 (In Dev. centric products I've learned that docs aren't just a requirement, they're basically a feature. Great docs make marketing so much easier, so here's a list of API docs that I think are extremely well designed/structured for inspiration)
@@ -149,7 +150,6 @@ Want to contribute to grow/improve this? PRs welcome!
 
 - [From PPC to IPO: How Snowflake Did It](https://foundationinc.co/lab/snowflake-ipo)
 - [How Microsoft crushed Slack](https://www.platformer.news/p/how-microsoft-crushed-slack)
-- [How Segment grew to a 1Billion business](https://growthhackers.com/growth-studies/segment-revolutionizing-customer-experience-with-data)
 - [How Stripe Scaled - Notes from Office Hours with Claire Hughes Johnson](https://tomtunguz.com/claire-hughes-johnson-notes/)
 - [Stripe's model of product-led, developer-centric growth.](https://lethain.com/stripe-product-led-developer-centric-growth/)
 - [How Segment Scaled - from 300% to 40% to 100% YoY Growth](https://twitter.com/reinpk/status/1485608412683509764)
@@ -159,12 +159,11 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Inside Jasper's explosive growth through PLG and community](https://kylepoyar.substack.com/p/your-guide-to-ai-and-plg)
 - [How we launch at Supabase](https://supabase.com/blog/supabase-how-we-launch)
 - [How Novu grew to 20k GitHub stars](https://www.crowd.dev/post/how-to-grow-a-github-project-to-20k-stars-with-nevo-david-novu)
-- [How to get the first 1000 Github stars for an Open Source project by GetLago](https://github.com/getlago/lago/wiki/How-to-get-the-first-1000-Github-stars-for-an-Open-Source-project)
+- [How to get the first 1000 Github stars for an Open Source project by GetLago](https://github.com/getlago/lago/wiki/The-777%E2%80%90point-Hacker-News-hit-that-got-us-000-star)
 
 
 # Community Marketing
 
-- [10 Best Practices of Community Managers](https://devada.com/10-best-practices-of-community-managers/)
 - [The Orbit Model: A framework for building high gravity communities](https://github.com/orbit-love/orbit-model) (⭐)
 - [Community-Market Fit: How Do You Know You've Built a Community That People Want?](https://www.commsor.com/post/what-is-community-market-fit) (⭐)
 - [Community Capitalism](https://twitter.com/charlierward/status/1368591361864241157)
@@ -180,7 +179,7 @@ Want to contribute to grow/improve this? PRs welcome!
 
 # Design Inspiration
 
-- [Supabase](https://supabase.io/)
+- [Supabase](https://supabase.com/)
 - [Prisma](https://www.prisma.io/)
 - [Kong](https://konghq.com/)
 - [GitHub](https://github.com/home)
@@ -191,7 +190,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Segment](https://segment.com/)
 - [Twilio](https://twilio.com/)
 - [Algolia](https://algolia.com/)
-- [Linear](https://linear.app/graphcms)
+- [Linear](https://linear.app/)
 - [Bejamas](https://bejamas.io/)
 - [Hasura](https://hasura.io/)
 - [Snyk](https://snyk.io/)
@@ -217,7 +216,7 @@ Want to contribute to grow/improve this? PRs welcome!
 
 - [DevRel Weekly](https://devrelweekly.com/)
 - [Rendezvous with Cassidoo](https://cassidoo.co/newsletter/)
-- [Glenn Stovall](https://glennstovall.com/newsletter/)
+- [Glenn Stovall](https://glennstovall.com/)
 - [Scott Spence](https://scottspence.com/newsletter/)
 - [Colby Fayock](https://www.colbyfayock.com/newsletter/)
 - [DevFirst By Francesca Krihely](https://devfirst.substack.com/)
@@ -235,7 +234,6 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Swag for Devs](https://github.com/swapagarwal/swag-for-dev) (⭐)
 - [Developer Marketing does not exist with Adam Duvander](https://dev.to/slashdatahq/developer-marketing-does-not-exist-with-adam-duvander-oh9)
 - [SaaS companies can grow to $20M+ ARR by selling exclusively to developers – TechCrunch](https://techcrunch.com/2021/05/11/saas-companies-can-grow-to-20m-arr-by-selling-exclusively-to-developers)
-- [The Rise of the Developer](https://www.sequoiacap.com/article/rise-of-the-developer)
 - [Sendgrid's State of the Marketer-Developer Relationship, 2019](https://sendgrid.com/resource/state-of-the-marketer-developer-relationship-in-2019/)
 - [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - [How to Market to Developers with Paid Marketing](https://www.moesif.com/blog/developer-marketing/paid-ads/Best-Practices-for-Paid-Marketing-To-Developers/)
@@ -243,6 +241,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Blogging For Devs](https://bloggingfordevs.com/)
 - [Scaling DevTools](https://podcast.bitreach.io/)
 - [Marketing Jobs in OSS Startups](https://www.ossjobs.dev/?category=Marketing)
+
 
 # Influencers and Educators
 
@@ -261,7 +260,6 @@ This is a developing list that's "generalized" as dev influencers from the dev r
 - [John Britton](https://twitter.com/johndbritton)
 - [Salma](https://twitter.com/whitep4nth3r)
 - [Ashley Smith](https://twitter.com/ashl3ysm1th)
-- [Stephanie Morillo](https://twitter.com/radiomorillo)
 - [John Papa](https://twitter.com/John_Papa)
 - [Lauren Buchman](https://twitter.com/LaurenJBuchman)
 - [Lauren Lee](https://twitter.com/LoLoCoding)
