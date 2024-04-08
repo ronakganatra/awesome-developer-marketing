@@ -62,6 +62,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862/ref=pd_sim_4)
 - [Developer Relations: How to Build and Grow a Successful Developer Program](https://www.amazon.com/Developer-Relations-Build-Successful-Program/dp/1484271637)
 - [The Developer's Guide To Content Creation](https://www.stephaniemorillo.co/product-page/the-developer-s-guide-to-content-creation) 💰$29💰
+- [Developer Experience](https://dx.addy.ie/)
 
 # Developer Marketing Centric Resources (and some DevRel relevance)
 
