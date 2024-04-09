@@ -125,6 +125,8 @@ Want to contribute to grow/improve this? PRs welcome!
 - [DevRel metrics by Kamran](https://kamranayub.com/metrics/)
 - [Dev tool marketing for early-stage startups – lessons learned from PostHog](https://posthog.com/founders/dev-marketing-for-startups)
 - [On developer marketing](https://leerob.io/blog/developer-marketing)
+- [WorkOS’ Path to Product-Market Fit — Why Your ‘Bad’ Idea Might Actually Be the Best One](https://review.firstround.com/workos-path-to-product-market-fit/)
+- [Vercel’s Path to Product-Market Fit — From Open-Source Project to Billion-Dollar Business](https://review.firstround.com/vercels-path-to-product-market-fit/)
 
 
 # Docs
