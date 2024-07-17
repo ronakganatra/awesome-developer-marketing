@@ -29,8 +29,9 @@ Want to contribute to grow/improve this? PRs welcome!
 
 # Internal Handbooks
 
-- [GitLab’s Marketing Handbook](https://about.gitlab.com/handbook/marketing/)
-- [PostHog’s Marketing Handbook](https://posthog.com/handbook/growth/marketing)
+- [GitLab's Marketing Handbook](https://about.gitlab.com/handbook/marketing/)
+- [PostHog's Marketing Handbook](https://posthog.com/handbook/growth/marketing)
+- [Resend's Handbook](https://resend.com/handbook)
 
 
 # Blogs and Websites
