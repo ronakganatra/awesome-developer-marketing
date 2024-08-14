@@ -49,8 +49,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [BitReach blog](https://blog.bitreach.io/)
 - [DEV.BIZ.OPS](https://devbizops.medium.com/)
 - [Developer Markepear](https://www.developermarkepear.com)
-- [Developer Marketing Examples by Florent Merian](https://fmerian.slite.page/p/DDMBOYju8lAMDQ/Developer-Marketing-Examples)
-
+- [Developer Marketing Examples by Flo Merian](https://mktto.dev/examples)
 
 # Books
 
@@ -147,6 +146,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Plaid](https://plaid.com/docs/)
 - [Postman](https://learning.postman.com/docs/getting-started/introduction/)
 - [Algolia](https://www.algolia.com/doc/)
+- [Mintlify](https://mintlify.com/docs/)
 
 
 # Case Studies
@@ -215,6 +215,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Clerk](https://go.clerk.com)
 - [Neon Postgres Database](https://neon.tech)
 - [Bytebase](https://www.bytebase.com/)
+- [Mintlify](https://mintlify.com/)
 
 
 # Newsletters
