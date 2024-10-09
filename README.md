@@ -126,6 +126,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [On developer marketing](https://leerob.io/blog/developer-marketing)
 - [WorkOS’ Path to Product-Market Fit — Why Your ‘Bad’ Idea Might Actually Be the Best One](https://review.firstround.com/workos-path-to-product-market-fit/)
 - [Vercel’s Path to Product-Market Fit — From Open-Source Project to Billion-Dollar Business](https://review.firstround.com/vercels-path-to-product-market-fit/)
+- [I interviewed 100 DevTools founders and this is what I learned](https://blog.scalingdevtools.com/i-interviewed-100-devtools-founders/)
 
 
 # Docs
