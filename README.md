@@ -50,6 +50,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [DEV.BIZ.OPS](https://devbizops.medium.com/)
 - [Developer Markepear](https://www.developermarkepear.com)
 - [Developer Marketing Examples by Flo Merian](https://mktto.dev/examples)
+- [Literally blog](https://www.literally.dev/resources)
 
 # Books
 
