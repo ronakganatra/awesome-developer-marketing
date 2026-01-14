@@ -95,6 +95,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Third Party Tools as a Marketing Tactic](https://www.heavybit.com/library/video/third-party-tools-as-a-marketing-tactic/)
 - [Community Lessons from GitHub, Google & GitLab with Jono Bacon](https://www.heavybit.com/library/video/community-lessons-from-github-google-gitlab-with-jono-bacon/)
 - [Developer Marketing KPIs](https://dev.to/slashdatahq/developer-marketing-kpis-are-different-from-devrel-kpis-3i8l)
+- - [Citedify](https://www.citedify.com/) - Track your brand's visibility in AI search engines (ChatGPT, Claude, Perplexity, Google AI). Get an AI Visibility Score and actionable roadmap for GEO (Generative Engine Optimization) (🔥)
 - [Aligning DevRel and Sales for Growth: Q&A Twilio CMO Sara Varni](https://www.heavybit.com/library/blog/aligning-devrel-and-sales-for-growth-qa-twilio-cmo-sara-varni/)
 - [Building Vibrant Developer Communities](https://www.heavybit.com/library/blog/building-vibrant-developer-communities/)
 - [Marketing doesn't work on developers](http://tapes.scalevp.com/marketing-doesnt-work-developers/) (⭐)
