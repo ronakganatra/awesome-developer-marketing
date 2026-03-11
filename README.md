@@ -1,5 +1,7 @@
 ![Awesome Developer Marketing](https://thumbs.gfycat.com/BigFoolishGull-size_restricted.gif)
 
+> 💡 **Need a 1-on-1 architecture call for your B2B/Open-source launch? Book a session for $200** (Crypto/USDT and Wire Transfer accepted) — [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot)
+
 A living document of (sometimes pretty unstructured and often off-on-a-tangent) hand-picked resources for marketers who're marketing to developers (B2D). I also have another list of [awesome-marketing](https://github.com/ronakganatra/awesome-marketing) resources.
 
 If you're in B2D or actively marketing to developers and want to join a likeminded group of people, check out the [Developer Marketing Community](https://marketingto.dev/) I'm co-building.
@@ -130,6 +132,9 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Vercel’s Path to Product-Market Fit — From Open-Source Project to Billion-Dollar Business](https://review.firstround.com/vercels-path-to-product-market-fit/)
 - [I interviewed 100 DevTools founders and this is what I learned](https://blog.scalingdevtools.com/i-interviewed-100-devtools-founders/)
 - [Linkbuilding for Dev Tools](https://stu404.com/blog/linkbuilding-for-dev-tools)
+- [Open Source Launch Marketing Playbook](https://github.com/Gingiris/gingiris-opensource) - Complete SOP for open source project launches. GitHub star growth tactics, KOL partnerships, Reddit marketing. By Iris (ex-AFFiNE COO, 60k+ stars). (⭐)
+- [AI Product Global Launch Playbook](https://github.com/Gingiris/gingiris-launch) - Battle-tested strategies from viral products. Product Hunt #1 Daily x30 times. Complete launch SOP. (⭐)
+- [B2B SaaS Growth Playbook](https://github.com/Gingiris/gingiris-b2b-growth) - Full-lifecycle growth guide from PMF to ecosystem. Real cases from HeyGen, Deel, Vercel, Supabase. (⭐)
 
 
 # Docs
