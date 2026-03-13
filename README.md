@@ -32,6 +32,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [GitLab's Marketing Handbook](https://about.gitlab.com/handbook/marketing/)
 - [PostHog's Marketing Handbook](https://posthog.com/handbook/growth/marketing)
 - [Resend's Handbook](https://resend.com/handbook)
+- [Gingiris Growth Playbooks](https://github.com/Gingiris) - Battle-tested playbooks for AI product launches, open source marketing, and B2B growth. Based on AFFiNE's journey to 60k GitHub stars.
 
 
 # Blogs and Websites
