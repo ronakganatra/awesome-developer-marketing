@@ -234,6 +234,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Github20K by Nevo from Novu](https://www.github20k.com/)
 - [140+ Dev-centric newsletters curated by Jack Bridger](https://bitreach.notion.site/Developer-Newsletters-1320315a0f314e76b2016b39359cb560)
 - [List of Dev-centric newsletters curated by language by zudochkin](https://github.com/zudochkin/awesome-newsletters)
+- [daily.dev newsletter and ad sponsorship options](https://business.daily.dev/)
 
 
 # Others
