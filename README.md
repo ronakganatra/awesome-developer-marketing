@@ -253,6 +253,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Marketing Jobs in Dev Tooling Companies](https://devtooljobs.com/marketing)
 
 
+- [GEO Boost](https://geo-boost.makesall.cn) - AI Visibility & Agent Optimization Platform. Check if AI search engines (ChatGPT, Gemini, Perplexity) can find your brand. Useful for monitoring your brand's presence in AI-powered search results. | [Open Source](https://github.com/nicokant/geo-boost)
 # Influencers and Educators
 
 This is a developing list that's "generalized" as dev influencers from the dev rel space. Some have specific areas of expertise that I've tried my best to catalog.
