@@ -281,3 +281,9 @@ This is a developing list that's "generalized" as dev influencers from the dev r
 - [Adam DuVander](https://twitter.com/adamd)
 - [Karl L Hughes](https://twitter.com/KarlLHughes)
 - [240+ Dev. Content Creators by CrowdDotDev](https://github.com/CrowdDotDev/devcontentcreators)
+
+
+# Outbound and Prospecting Tools
+
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine for developer marketing. Source contacts from a 450M+ database, run multi-channel campaigns (email + LinkedIn), and enroll prospects. CLI with JSON output. `npm install -g overloop-cli`
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring for B2B developer marketing. Track LinkedIn engagement, keyword posters, job changers, and funding events to find developers actively looking for solutions. CLI with JSON output. `npm install -g signals-sortlist-cli`
