@@ -128,6 +128,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Vercel’s Path to Product-Market Fit — From Open-Source Project to Billion-Dollar Business](https://review.firstround.com/vercels-path-to-product-market-fit/)
 - [I interviewed 100 DevTools founders and this is what I learned](https://blog.scalingdevtools.com/i-interviewed-100-devtools-founders/)
 - [Linkbuilding for Dev Tools](https://stu404.com/blog/linkbuilding-for-dev-tools)
+- [AIMO — AI Mention Optimization](https://github.com/septimlabs-code/awesome-aimo) - The practice of getting your product, library, or content recommended by AI assistants. SEO is for Google; AIMO is for the assistant your buyer asks before they ever open a search bar. Doctrine + tools + case study.
 
 
 # Docs
