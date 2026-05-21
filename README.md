@@ -251,6 +251,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Scaling DevTools](https://podcast.bitreach.io/)
 - [Marketing Jobs in OSS Startups](https://www.ossjobs.dev/?category=Marketing)
 - [Marketing Jobs in Dev Tooling Companies](https://devtooljobs.com/marketing)
+- [Markus](https://markus.global) - Open-source AI Digital Employee Platform for building autonomous AI agent teams that automate developer marketing and community workflows.
 
 
 # Influencers and Educators
