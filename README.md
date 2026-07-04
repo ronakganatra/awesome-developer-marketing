@@ -251,6 +251,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Scaling DevTools](https://podcast.bitreach.io/)
 - [Marketing Jobs in OSS Startups](https://www.ossjobs.dev/?category=Marketing)
 - [Marketing Jobs in Dev Tooling Companies](https://devtooljobs.com/marketing)
+- [Ship 2 Post](https://s2p.dev) - Watches GitHub releases and auto-generates social posts for each release across multiple channels
 
 
 # Influencers and Educators
