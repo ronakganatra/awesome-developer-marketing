@@ -251,6 +251,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Scaling DevTools](https://podcast.bitreach.io/)
 - [Marketing Jobs in OSS Startups](https://www.ossjobs.dev/?category=Marketing)
 - [Marketing Jobs in Dev Tooling Companies](https://devtooljobs.com/marketing)
+- [goose-skills](https://github.com/gooseworks-ai/goose-skills) - Open-source library of 125 growth/GTM agent skills (ads, content, lead gen, SEO) for Claude Code, Codex, and Cursor
 
 
 # Influencers and Educators
