@@ -62,6 +62,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Developer Relations: How to Build and Grow a Successful Developer Program](https://www.amazon.com/Developer-Relations-Build-Successful-Program/dp/1484271637)
 - [The Developer's Guide To Content Creation](https://www.stephaniemorillo.co/product-page/the-developer-s-guide-to-content-creation) 💰$29💰
 - [Developer Experience](https://dx.addy.ie/)
+- [The Developer Facing Startup: Alchemist Accelerator’s go-to-market playbook for early-stage developer-facing startups](https://www.amazon.co.uk/Developer-Facing-Startup-market-developer-facing-ebook/dp/B0D4MGPSG6/)
 
 
 # Developer Marketing Centric Resources (and some DevRel relevance)
