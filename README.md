@@ -128,6 +128,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Vercel’s Path to Product-Market Fit — From Open-Source Project to Billion-Dollar Business](https://review.firstround.com/vercels-path-to-product-market-fit/)
 - [I interviewed 100 DevTools founders and this is what I learned](https://blog.scalingdevtools.com/i-interviewed-100-devtools-founders/)
 - [Linkbuilding for Dev Tools](https://stu404.com/blog/linkbuilding-for-dev-tools)
+- [Let Me Think](https://letmethink.cc/) - A digital wellbeing product studio creating calm tools for attention, creativity, and real connection.
 
 
 # Docs
