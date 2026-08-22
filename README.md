@@ -238,6 +238,8 @@ Want to contribute to grow/improve this? PRs welcome!
 
 # Others
 
+- [FoxData DevRel Content Hub](https://github.com/benzhang568858050-cell/App-data-IOS-GP-): Self-hosted developer content automation — app market data to Dev.to publishing, AI ops engine, GitHub Actions scheduling
+
 - [X with Y](https://xwithy.com/) - A marketplace for developer content
 - [Enterprise is sexy, but B2D is sexier](https://news.ycombinator.com/item?id=4829229)
 - [Swag for Devs](https://github.com/swapagarwal/swag-for-dev) (⭐)
