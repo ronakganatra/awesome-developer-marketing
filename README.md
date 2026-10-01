@@ -1,4 +1,4 @@
-![Awesome Developer Marketing](https://thumbs.gfycat.com/BigFoolishGull-size_restricted.gif)
+![Awesome Developer Marketing](https://savepad.app/awesome-banner.png)
 
 A living document of (sometimes pretty unstructured and often off-on-a-tangent) hand-picked resources for marketers who're marketing to developers (B2D). I also have another list of [awesome-marketing](https://github.com/ronakganatra/awesome-marketing) resources.
 
