@@ -220,6 +220,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [daily.dev Digest](https://daily.dev) - Community-driven newsletter with the most engaged developer stories, curated by 1M+ developers. [Sponsor/advertise](https://business.daily.dev)
 - [DevRel Weekly](https://devrelweekly.com/)
 - [Rendezvous with Cassidoo](https://cassidoo.co/newsletter/)
+- [Glenn Stovall](https://glennstovall.com/)
 - [Scott Spence](https://scottspence.com/newsletter/)
 - [Colby Fayock](https://www.colbyfayock.com/newsletter/)
 - [DevFirst By Francesca Krihely](https://devfirst.substack.com/)
