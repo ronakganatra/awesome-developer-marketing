@@ -250,6 +250,7 @@ Want to contribute to grow/improve this? PRs welcome!
 - [Scaling DevTools](https://podcast.bitreach.io/)
 - [Marketing Jobs in OSS Startups](https://www.ossjobs.dev/?category=Marketing)
 - [Marketing Jobs in Dev Tooling Companies](https://devtooljobs.com/marketing)
+- [SaaSCity](https://saascity.io) - Launch directory for SaaS, AI, and developer tools with free zero-signup SEO and founder tools
 
 
 # Influencers and Educators
